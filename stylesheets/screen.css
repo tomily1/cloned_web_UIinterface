@@ -370,6 +370,7 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+
 a, a:hover {
   color: #417090;
 }
@@ -465,6 +466,7 @@ table {
   border-collapse: separate;
   border-bottom: 2px solid #bdb6ad;
   margin: 10px 0;
+  font-style:italic;  
 }
 
 tr {
